@@ -12,7 +12,7 @@ public class RunTask {
     private GiosAgregator giosAgregator;
 
 
-    @Scheduled(cron = "0 0 3 1/1 * ? *")
+    @Scheduled(cron = "0 0 3 1/1 * ?")
     public void loadFile(){
         giosAgregator.createContentFile();
     }
