@@ -1,0 +1,44 @@
+Temat:
+
+Metody Detekcji i klasyfikacja złośliwego oprogramowania.
+
+Zawężenie zagadnień:
+
+Klasyfikacja złośliwego oprogramowania, kryteria podziału, detekcja złośliwego oprogramowania, uczenie maszynowe - sieci neuronowe, wykorzystanie sieci neuronowych w klasyfikacji złośliwego oprogramowania
+
+Proponowane cele i zakres projektu:
+
+1. Analiza i opis klasyfikacji złośliwego oprogramowania
+2. Analiza i opis obecnych metod/rozwiązań klasyfikacji i detekcji złośliwego oprogramowania
+3. Analiza i opis wykorzystania uczenia maszynowego w obecnej klasyfikacji i detekcji złośliwego oprogramowania
+4. Zaproponowanie, analiza i wstępny projekt teoretyczny (bez implementacji) wykrozsytujący uczenie maszynowe w klasyfikacji złośliwego oprogramowania
+
+Przewidywane efekty realizacji projektu - co zostanie opracowane i stworzone:
+
+        Wynikiem naszej pracy będzie szczegółowa analiza obecnego modelu klasyfikacji oraz metod klasyfikacji złośliwego oprogramowania. Obecna klasyfikacja zostanie zbadana pod kątem maszynowego uczenia oraz jego wykorzystania w klasyfikacji. Zaproponujemy także wykorzystanie sieci neuronowych w klasyfikacji złośliwego oprogramowania
+
+Literatura/artykuły:
+
+https://sekurak.pl/szybka-analiza-malware/
+
+https://sekurak.pl/analiza-malware-w-praktyce-procedury-i-narzedzia/
+
+http://repo.bg.pw.edu.pl/index.php/pl/r#/info/master/WUT1dbeac9c7d714deb82db2a1c9f8128a7/ - tutaj trzeba by znaleźć jeżeli praca jest gdzieś wrzucona
+
+https://www.cert.pl/wp-content/uploads/2019/05/Raport\_CP\_2018.pdf
+
+http://www.pe.org.pl/articles/2019/3/32.pdf
+
+https://ph.pollub.pl/index.php/jcsi/article/view/1329/1087
+
+http://galaxy.uci.agh.edu.pl/~vlsi/AI/wstep/
+
+https://pl.wikipedia.org/wiki/Z Accessed:
+
+https://securelist.com/kaspersky-security-bulletin-2018-statistics/89145/
+
+https://www.cert.pl/news/single/nymaim-atakuje-ponownie/
+
+https://www.cert.pl/news/single/mwdb-nasz-sposob-na-wspoldzielenie-informacji-na-temat-zlosliwego-oprogramowania/
+
+#
